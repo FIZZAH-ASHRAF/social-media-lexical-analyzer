@@ -32,9 +32,23 @@ It recognizes different types of social media tokens using Regular Expressions (
 - C Language
 - Visual Studio Code
 
-## Sample Output
+## 📸 Project Screenshots
 
-![Output](output.png)  
+### 1. Lexical Rules (social.l)
+
+![Lexical Rules](code.png)
+
+---
+
+### 2. Program Output
+
+![Program Output](output.png)
+
+---
+
+### 3. Token Summary
+
+![Token Summary](outputsummary.png)
 
 ## Compiler Phase
 
