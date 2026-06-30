@@ -48,7 +48,7 @@ It recognizes different types of social media tokens using Regular Expressions (
 
 ### 3. Token Summary
 
-![Token Summary](outputsummary.png)
+![Token Summary](summary.png)
 
 ## Compiler Phase
 
