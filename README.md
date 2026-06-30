@@ -32,6 +32,10 @@ It recognizes different types of social media tokens using Regular Expressions (
 - C Language
 - Visual Studio Code
 
+## Sample Output
+
+![Output](output.png)  
+
 ## Compiler Phase
 
 This project implements the **Lexical Analysis** phase of a compiler.
